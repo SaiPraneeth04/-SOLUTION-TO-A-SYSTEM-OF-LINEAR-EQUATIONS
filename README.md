@@ -26,7 +26,7 @@ print(sol)
 ```
 
 ## Output:
-![model](/saipraneeth(solving%20silutions).png)
+![model](/solutions.png)
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
